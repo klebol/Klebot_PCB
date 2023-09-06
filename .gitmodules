@@ -1,0 +1,3 @@
+[submodule "Library/Klebot_KiCad_Library"]
+	path = Library/Klebot_KiCad_Library
+	url = https://github.com/klebol/Klebot_KiCad_Library.git
