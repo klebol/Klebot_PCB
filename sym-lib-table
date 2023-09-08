@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "TPS54228D")(type "KiCad")(uri "${KIPRJMOD}/Library/Klebot_KiCad_Library/Modules/TPS54228D/TPS54228D.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61087DRCR")(type "KiCad")(uri "${KIPRJMOD}/Library/Klebot_KiCad_Library/Modules/TPS61087DRCR/TPS61087DRCR.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8836DSSR")(type "KiCad")(uri "${KIPRJMOD}/Library/Klebot_KiCad_Library/Modules/DRV8836DSSR/DRV8836DSSR.kicad_sym")(options "")(descr ""))
 )

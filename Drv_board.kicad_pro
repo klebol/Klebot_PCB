@@ -326,6 +326,14 @@
     [
       "f5f0886f-9115-42d1-ab59-d872f7456d0a",
       ""
+    ],
+    [
+      "e4c5a70b-512a-4b9f-ab91-b16b9dec5f3c",
+      "Power Supply"
+    ],
+    [
+      "95a79fcf-86f2-4917-a8d6-941d90da7243",
+      "Motors"
     ]
   ],
   "text_variables": {}
