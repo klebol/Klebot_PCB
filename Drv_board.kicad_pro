@@ -334,6 +334,10 @@
     [
       "95a79fcf-86f2-4917-a8d6-941d90da7243",
       "Motors"
+    ],
+    [
+      "1a08506a-2031-484a-9e68-4d9fd285edb8",
+      "Peripherals"
     ]
   ],
   "text_variables": {}
