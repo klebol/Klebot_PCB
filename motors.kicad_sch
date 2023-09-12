@@ -499,6 +499,15 @@
     (uuid efd3a63e-87f5-4ffb-87ff-e1ba1416e232)
   )
 
+  (text "H-Bridge" (at 80.645 86.995 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2d517ecd-9ad8-4d33-a0c2-fc1898589971)
+  )
+  (text "Motor connectors" (at 149.86 88.265 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5c27325d-5e12-4960-8015-198a42c85722)
+  )
+
   (global_label "ENC_B_1" (shape input) (at 161.925 69.85 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0566cdcd-5134-4a46-85b2-fe4f07461b4c)
