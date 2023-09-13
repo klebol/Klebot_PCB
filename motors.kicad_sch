@@ -638,13 +638,13 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 40.64 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0baf979f-9ccc-4006-ab40-4745147f63a4)
-    (property "Reference" "C17" (at 34.925 56.515 0)
+    (property "Reference" "C28" (at 34.925 56.515 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22u" (at 34.925 58.42 0)
+    (property "Value" "47u" (at 34.925 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 40.64 57.15 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_5x5.9" (at 40.64 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 57.15 0)
@@ -655,7 +655,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "C17") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -691,7 +691,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
@@ -727,7 +727,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR080") (unit 1)
         )
       )
     )
@@ -763,7 +763,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -772,7 +772,7 @@
   (symbol (lib_id "power:+3.3V") (at 142.875 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 369d33bf-34d9-4e7c-a276-74c281d53562)
-    (property "Reference" "#PWR050" (at 142.875 78.74 0)
+    (property "Reference" "#PWR079" (at 142.875 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 142.875 71.12 0)
@@ -788,7 +788,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR079") (unit 1)
         )
       )
     )
@@ -797,7 +797,7 @@
   (symbol (lib_id "power:+3.3V") (at 142.875 55.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a3407fa-bb9f-438d-a05d-7aa7b92841f3)
-    (property "Reference" "#PWR047" (at 142.875 59.055 0)
+    (property "Reference" "#PWR078" (at 142.875 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 142.875 51.435 0)
@@ -813,7 +813,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR078") (unit 1)
         )
       )
     )
@@ -828,7 +828,7 @@
     (property "Value" "10u" (at 43.18 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 48.895 57.15 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 48.895 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 48.895 57.15 0)
@@ -845,7 +845,7 @@
           (reference "C4") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "C16") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -860,7 +860,7 @@
     (property "Value" "100n" (at 50.8 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 56.515 57.15 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 56.515 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 56.515 57.15 0)
@@ -877,7 +877,7 @@
           (reference "C4") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "C18") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -913,7 +913,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR074") (unit 1)
         )
       )
     )
@@ -949,7 +949,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR076") (unit 1)
         )
       )
     )
@@ -964,7 +964,7 @@
     (property "Value" "DRV8836DSSR" (at 85.09 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SON50P200X300X80-13N-D" (at 101.6 139.37 0)
+    (property "Footprint" "DRV8836DSSR:SON50P200X300X80-13N-D" (at 101.6 139.37 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/drv8836" (at 101.6 239.37 0)
@@ -1037,7 +1037,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR081") (unit 1)
         )
       )
     )
@@ -1046,7 +1046,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 167.005 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a7035d7-4fc1-4455-a3cb-fed219b519c4)
-    (property "Reference" "J2" (at 170.18 70.485 0)
+    (property "Reference" "J9" (at 170.18 70.485 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Motor B" (at 170.18 73.025 0)
@@ -1067,7 +1067,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "J2") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -1103,7 +1103,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR073") (unit 1)
         )
       )
     )
@@ -1134,7 +1134,7 @@
           (reference "#PWR02") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR072") (unit 1)
         )
       )
     )
@@ -1143,7 +1143,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 167.005 50.165 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fda1a318-0588-48dd-9455-9f586fb53eb3)
-    (property "Reference" "J1" (at 170.18 50.8 0)
+    (property "Reference" "J8" (at 170.18 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Motor A" (at 170.18 53.34 0)
@@ -1164,7 +1164,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "J1") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
     )
