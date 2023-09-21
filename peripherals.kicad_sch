@@ -1824,7 +1824,7 @@
     (property "Value" "2u2" (at 130.175 137.795 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 129.54 135.89 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 129.54 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 129.54 135.89 0)
