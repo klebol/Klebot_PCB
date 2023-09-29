@@ -599,10 +599,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "B1" (shape input) (at 161.925 64.77 180) (fields_autoplaced)
+  (global_label "B1" (shape input) (at 161.925 77.47 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid dd008020-e11c-440b-8986-11b53dee86e3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 156.5397 64.77 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 156.5397 77.47 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -627,10 +627,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "B2" (shape input) (at 161.925 77.47 180) (fields_autoplaced)
+  (global_label "B2" (shape input) (at 161.925 64.77 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f9f66184-dfeb-4890-8a33-ebb9b9702de7)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 156.5397 77.47 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 156.5397 64.77 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -691,7 +691,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR075") (unit 1)
+          (reference "#PWR078") (unit 1)
         )
       )
     )
@@ -727,7 +727,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR080") (unit 1)
+          (reference "#PWR073") (unit 1)
         )
       )
     )
@@ -763,7 +763,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR077") (unit 1)
+          (reference "#PWR080") (unit 1)
         )
       )
     )
@@ -772,7 +772,7 @@
   (symbol (lib_id "power:+3.3V") (at 142.875 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 369d33bf-34d9-4e7c-a276-74c281d53562)
-    (property "Reference" "#PWR079" (at 142.875 78.74 0)
+    (property "Reference" "#PWR081" (at 142.875 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 142.875 71.12 0)
@@ -788,7 +788,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR079") (unit 1)
+          (reference "#PWR081") (unit 1)
         )
       )
     )
@@ -797,7 +797,7 @@
   (symbol (lib_id "power:+3.3V") (at 142.875 55.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a3407fa-bb9f-438d-a05d-7aa7b92841f3)
-    (property "Reference" "#PWR078" (at 142.875 59.055 0)
+    (property "Reference" "#PWR074" (at 142.875 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 142.875 51.435 0)
@@ -813,7 +813,7 @@
     (instances
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR078") (unit 1)
+          (reference "#PWR074") (unit 1)
         )
       )
     )
@@ -913,7 +913,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR074") (unit 1)
+          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -949,7 +949,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR076") (unit 1)
+          (reference "#PWR079") (unit 1)
         )
       )
     )
@@ -1037,7 +1037,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR081") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
@@ -1103,7 +1103,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/95a79fcf-86f2-4917-a8d6-941d90da7243"
-          (reference "#PWR073") (unit 1)
+          (reference "#PWR076") (unit 1)
         )
       )
     )

@@ -1409,7 +1409,7 @@
     (property "Value" "4p7" (at 193.421 59.817 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 187.96 58.674 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 187.96 58.674 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 187.96 58.674 0)
@@ -1428,7 +1428,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C42") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -1462,7 +1462,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C37") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -1495,7 +1495,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR090") (unit 1)
+          (reference "#PWR096") (unit 1)
         )
       )
     )
@@ -1528,7 +1528,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR085") (unit 1)
+          (reference "#PWR095") (unit 1)
         )
       )
     )
@@ -1561,7 +1561,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR095") (unit 1)
+          (reference "#PWR092") (unit 1)
         )
       )
     )
@@ -1594,7 +1594,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0108") (unit 1)
+          (reference "#PWR088") (unit 1)
         )
       )
     )
@@ -1678,7 +1678,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "R20") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -1693,7 +1693,7 @@
     (property "Value" "1p" (at 199.39 47.625 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 198.882 45.72 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 198.882 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.882 45.72 0)
@@ -1712,7 +1712,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C44") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -1745,7 +1745,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR084") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
@@ -1776,7 +1776,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C39") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
@@ -1809,7 +1809,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR094") (unit 1)
+          (reference "#PWR082") (unit 1)
         )
       )
     )
@@ -1840,7 +1840,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C40") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -1870,7 +1870,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR097") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -1903,7 +1903,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR087") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -1937,7 +1937,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C31") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -1970,7 +1970,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR083") (unit 1)
+          (reference "#PWR085") (unit 1)
         )
       )
     )
@@ -2018,7 +2018,7 @@
     (property "Value" "1p5" (at 194.945 45.085 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 193.04 42.164 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 193.04 42.164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 42.164 0)
@@ -2037,7 +2037,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C43") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -2052,7 +2052,7 @@
     (property "Value" "3n9" (at 182.626 43.307 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (at 182.626 42.164 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 182.626 42.164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.626 42.164 0)
@@ -2068,7 +2068,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "L4") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -2121,7 +2121,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "U6") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -2194,7 +2194,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "U8") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -2227,7 +2227,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR093") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -2257,7 +2257,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0101") (unit 1)
+          (reference "#PWR0104") (unit 1)
         )
       )
     )
@@ -2290,7 +2290,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0103") (unit 1)
+          (reference "#PWR090") (unit 1)
         )
       )
     )
@@ -2324,7 +2324,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C32") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -2357,7 +2357,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0105") (unit 1)
+          (reference "#PWR084") (unit 1)
         )
       )
     )
@@ -2390,7 +2390,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR089") (unit 1)
         )
       )
     )
@@ -2420,7 +2420,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0107") (unit 1)
+          (reference "#PWR098") (unit 1)
         )
       )
     )
@@ -2454,7 +2454,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C46") (unit 1)
+          (reference "C37") (unit 1)
         )
       )
     )
@@ -2488,7 +2488,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C34") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -2503,7 +2503,7 @@
     (property "Value" "33n" (at 71.755 70.866 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 75.438 68.961 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 75.438 68.961 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 75.438 68.961 0)
@@ -2522,7 +2522,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C36") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -2555,7 +2555,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR083") (unit 1)
         )
       )
     )
@@ -2588,7 +2588,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR092") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
@@ -2619,7 +2619,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "R18") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -2652,7 +2652,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR082") (unit 1)
+          (reference "#PWR087") (unit 1)
         )
       )
     )
@@ -2682,7 +2682,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0100") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
@@ -2727,7 +2727,7 @@
     (property "Value" "8n2" (at 174.625 47.117 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (at 173.99 45.72 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 173.99 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 45.72 0)
@@ -2743,7 +2743,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "L3") (unit 1)
+          (reference "L4") (unit 1)
         )
       )
     )
@@ -2774,7 +2774,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "R17") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -2789,7 +2789,7 @@
     (property "Value" "2n2" (at 81.026 153.162 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 81.153 151.511 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 81.153 151.511 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 81.153 151.511 0)
@@ -2808,7 +2808,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C38") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -2841,7 +2841,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR086") (unit 1)
+          (reference "#PWR093") (unit 1)
         )
       )
     )
@@ -2890,7 +2890,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "U7") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -2924,7 +2924,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C35") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -2954,7 +2954,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR098") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -2988,7 +2988,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C33") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -3021,7 +3021,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR089") (unit 1)
+          (reference "#PWR086") (unit 1)
         )
       )
     )
@@ -3051,7 +3051,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR096") (unit 1)
+          (reference "#PWR0100") (unit 1)
         )
       )
     )
@@ -3066,7 +3066,7 @@
     (property "Value" "2n2" (at 178.435 59.563 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 180.34 58.674 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 180.34 58.674 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 180.34 58.674 0)
@@ -3085,7 +3085,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C41") (unit 1)
+          (reference "C38") (unit 1)
         )
       )
     )
@@ -3115,7 +3115,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR0106") (unit 1)
+          (reference "#PWR097") (unit 1)
         )
       )
     )
@@ -3148,7 +3148,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "#PWR088") (unit 1)
+          (reference "#PWR094") (unit 1)
         )
       )
     )
@@ -3182,7 +3182,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "C45") (unit 1)
+          (reference "C36") (unit 1)
         )
       )
     )
@@ -3197,7 +3197,7 @@
     (property "Value" "2n7" (at 182.626 50.927 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (at 182.626 49.657 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 182.626 49.657 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.626 49.657 0)
@@ -3244,7 +3244,7 @@
       )
       (project "Drv_board"
         (path "/f5f0886f-9115-42d1-ab59-d872f7456d0a/1a08506a-2031-484a-9e68-4d9fd285edb8"
-          (reference "R19") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
