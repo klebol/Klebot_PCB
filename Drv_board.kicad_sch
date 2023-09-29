@@ -3499,8 +3499,8 @@
     (property "Datasheet" "~" (at 27.432 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05a75634-f13e-4167-a4bd-8e40c9de9748))
-    (pin "2" (uuid 0b60acb3-32ea-4575-862b-f4152ca9a79f))
+    (pin "1" (uuid 76332aa4-76ed-4dde-859d-98779283c909))
+    (pin "2" (uuid 2092017c-07cd-430b-a711-72781449c04b))
     (instances
       (project "Controller_board"
         (path "/79650e32-6fba-4eaa-902b-d1154ea8c394"
