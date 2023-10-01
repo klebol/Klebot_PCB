@@ -2435,7 +2435,7 @@
     (property "Value" "10p" (at 258.953 58.801 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 258.191 56.896 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 258.191 56.896 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 258.191 56.896 0)
@@ -2795,8 +2795,8 @@
     (property "Datasheet" "~" (at 81.153 151.511 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f0699e1-dc71-4306-a100-dd680883761e))
-    (pin "2" (uuid bae497e9-1cd2-4e74-919f-56f86573864b))
+    (pin "1" (uuid 495911ff-c29b-4e72-9506-7c7fc8ac0e1c))
+    (pin "2" (uuid 62898b55-b011-453d-bcfb-10afe1282700))
     (instances
       (project "Controller_board"
         (path "/79650e32-6fba-4eaa-902b-d1154ea8c394"
@@ -3163,7 +3163,7 @@
     (property "Value" "10p" (at 244.983 58.547 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 249.301 56.896 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 249.301 56.896 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 249.301 56.896 0)
